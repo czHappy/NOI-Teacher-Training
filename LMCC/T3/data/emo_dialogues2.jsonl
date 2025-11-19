@@ -1,0 +1,10 @@
+{"dialogue":[{"role": "user", "content": "今天生日收到好多礼物，我最喜欢那个小熊玩偶！"},{"role": "assistant", "content": "生日快乐！收到喜欢的礼物一定很开心吧～"}],"label":"高兴"}
+{"dialogue":[{"role": "user", "content": "我画的画在班级展览上得了第一名！"},{"role": "assistant", "content": "太厉害了！你的绘画天赋真棒！"}],"label":"高兴"}
+{"dialogue":[{"role": "user", "content": "今天体育课跑步比赛我跑了第一名！"},{"role": "assistant", "content": "哇！你的运动能力真强，继续加油！"}],"label":"高兴"}
+{"dialogue":[{"role": "user", "content": "爸爸答应明天带我去游乐园玩！"},{"role": "assistant", "content": "真为你高兴，希望你在游乐园玩得愉快！"}],"label":"高兴"}
+{"dialogue":[{"role": "user", "content": "今天老师表扬我作业写得认真"},{"role": "assistant", "content": "得到老师的认可感觉一定很棒！"}],"label":"高兴"}
+{"dialogue":[{"role": "user", "content": "我的好朋友转学了，以后没人陪我玩了"},{"role": "assistant", "content": "和朋友分开确实会让人难过，但你们还可以保持联系"}],"label":"难过"}
+{"dialogue":[{"role": "user", "content": "今天不小心把最心爱的水杯摔破了"},{"role": "assistant", "content": "真可惜，失去心爱的东西确实让人伤心"}],"label":"难过"}
+{"dialogue":[{"role": "user", "content": "数学考试没考好，心里好难受"},{"role": "assistant", "content": "一次没考好没关系，下次努力就好"}],"label":"难过"}
+{"dialogue":[{"role": "user", "content": "今天和好朋友吵架了，现在好后悔"},{"role": "assistant", "content": "和朋友吵架确实会难过，主动和好试试看？"}],"label":"难过"}
+{"dialogue":[{"role": "user", "content": "我的宠物小仓鼠昨天离开了我"},{"role": "assistant", "content": "失去心爱的宠物确实很伤心，它一定很感谢你的照顾"}],"label":"难过"}

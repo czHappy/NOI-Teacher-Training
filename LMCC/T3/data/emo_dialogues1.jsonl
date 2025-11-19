@@ -1,0 +1,20 @@
+{"dialogue": [{"role": "user", "content": "今天我生日，收到了好多礼物！"}, {"role": "assistant", "content": "生日快乐！收到礼物一定很开心吧！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我考试得了满分，老师表扬了我！"}, {"role": "assistant", "content": "太厉害了！继续加油哦！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "妈妈带我去游乐园玩了一整天！"}, {"role": "assistant", "content": "听起来好有趣！玩得开心吗？"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我交到了一个新朋友，我们聊得很开心！"}, {"role": "assistant", "content": "真棒！友谊是最珍贵的礼物！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我画的画在比赛中得了一等奖！"}, {"role": "assistant", "content": "恭喜你！你的努力得到了回报！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "今天体育课我跑了第一名！"}, {"role": "assistant", "content": "哇！你的运动能力真强！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "爸爸答应周末带我去看电影！"}, {"role": "assistant", "content": "太期待了！和家人一起看电影最幸福了！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我学会了骑自行车，好兴奋！"}, {"role": "assistant", "content": "真了不起！掌握新技能的感觉很棒吧！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我和好朋友一起做了个科学实验，成功了！"}, {"role": "assistant", "content": "合作成功的感觉一定很美妙！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我的玩具被弟弟弄坏了，好难过……"}, {"role": "assistant", "content": "我理解你的心情，要不要试着修修看？"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "今天被老师批评了，心里很不舒服。"}, {"role": "assistant", "content": "别太难过了，每个人都会犯错的。"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "好朋友今天不理我了，我不知道为什么……"}, {"role": "assistant", "content": "这确实让人伤心，要不要主动问问原因？"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "我生病了不能去学校，好想念同学们。"}, {"role": "assistant", "content": "好好休息，早日康复就能见到同学们了！"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "今天下雨，户外活动取消了，好失望。"}, {"role": "assistant", "content": "确实有点可惜，不过我们可以在室内找些有趣的事情做。"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "我努力准备了很久的比赛还是输了……"}, {"role": "assistant", "content": "参与的过程也很重要，你已经很棒了！"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "妈妈不让我看电视，我觉得好委屈。"}, {"role": "assistant", "content": "我理解你的感受，也许妈妈是担心你的眼睛呢。"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "我今天在才艺表演上唱歌，大家都给我鼓掌！"}, {"role": "assistant", "content": "太棒了！你的歌声一定很动听！"}, {"role": "user", "content": "对啊，我还得到了小奖品呢！"}, {"role": "assistant", "content": "真为你感到高兴！继续展现你的才华吧！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "今天科学实验成功了，我们小组得了第一！"}, {"role": "assistant", "content": "恭喜你们！团队合作的力量真强大！"}, {"role": "user", "content": "我们准备了好久，终于有回报了！"}, {"role": "assistant", "content": "努力付出终有收获，你们值得这个荣誉！"}], "label": "高兴"}
+{"dialogue": [{"role": "user", "content": "我今天被同学冤枉了，心里好委屈……"}, {"role": "assistant", "content": "被误解的感觉确实不好受，要不要试着解释清楚？"}, {"role": "user", "content": "我解释了，可是他们不相信我……"}, {"role": "assistant", "content": "时间会证明一切的，真正的朋友会理解你的。"}], "label": "难过"}
+{"dialogue": [{"role": "user", "content": "爸爸妈妈带我去海边玩了，海浪好好玩！"}, {"role": "assistant", "content": "海边确实很有趣！你最喜欢海边的什么？"}, {"role": "user", "content": "我喜欢堆沙堡和捡贝壳！"}, {"role": "assistant", "content": "听起来真是个美好的假期！"}], "label": "高兴"}
